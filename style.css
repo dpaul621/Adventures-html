@@ -1,0 +1,31 @@
+img {
+    height: 200px;
+}
+
+html {
+    background-color: #F6FFA6;
+    font-family: 'Playfair', serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center; 
+}
+
+h3 {
+    text-align: center; 
+}
+
+.sidebyside {
+    border: 10px solid black;
+    width: 305px;
+    background-color: #9376E0;
+    padding: 10px;
+}
+
+.email {
+    color:navy;
+}
